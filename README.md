@@ -2,7 +2,7 @@
 
 <p>Sou formado em Sistemas de Informação pela Universidade Federal do Sul e Sudeste do Pará .</p>
 
-<h2>Me chamo João Pedro 👋 e esses são meus conhecimentos :arrow_heading_down:</h2>
+<h2>Me chamo João Pedro 👋 e esses são meus conhecimentos :arrow_down:</h2>
 
 <h3>:trophy: Minhas skills</h3>
 
