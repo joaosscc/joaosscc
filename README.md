@@ -10,7 +10,9 @@
   <dt>Linguagem de programação</dt>
   <dd>
     <p>
-      <img src="https://github.com/joaosscc/icons/blob/main/python.png" width="40px">
+      <a href="">
+        <img src="https://github.com/joaosscc/icons/blob/main/python.png" width="40px">
+      </a>
       <img src="https://github.com/joaosscc/icons/blob/main/java.png" width="40px">
       <img src="https://github.com/joaosscc/icons/blob/main/javascript.png" width="40px">
       <img src="https://github.com/joaosscc/icons/blob/main/c.png" width="40px">
