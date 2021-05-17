@@ -1,33 +1,30 @@
-<div></div>
-
-
 <h1>Salve Brasileirinho!!</h1>
-
-<h3>Me chamo João Pedro 👋</h3>
 
 <p>Sou formado em Sistemas de Informação pela Universidade Federal do Sul e Sudeste do Pará .</p>
 
-<h4>:computer: Linguagem de programação:</h4>
+<h2>Me chamo João Pedro 👋 e esses são meus conhecimentos :arrow_heading_down:</h2>
 
-<p>
-  <img src="https://github.com/joaosscc/icons/blob/main/python.png" width="50">
-  <img src="https://github.com/joaosscc/icons/blob/main/java.png" width="50">
-  <img src="https://github.com/joaosscc/icons/blob/main/javascript.png" width="50">
-  <img src="https://github.com/joaosscc/icons/blob/main/c.png" width="50">
-</p>
+<h3>Skills</h3>
 
-<h4>Desenvolvimento Front End:</h4>
-
-<h4>Desenvolvimento Back End:</h4>
-
-<h4>Desenvolvimento de Aplicativos Móveis:</h4>
-
-<h4>IA:</h4>
-
-<h4>Database:</h4>
-
-<h4>Serviços:</h4>
-
-<h4>Framework:</h4>
-
-<h4>Software:</h4>
+<dl>
+  <dt>Linguagem de programação</dt>
+  <dd>
+    <p>
+      <img src="https://github.com/joaosscc/icons/blob/main/python.png" width="50">
+      <img src="https://github.com/joaosscc/icons/blob/main/java.png" width="50">
+      <img src="https://github.com/joaosscc/icons/blob/main/javascript.png" width="50">
+      <img src="https://github.com/joaosscc/icons/blob/main/c.png" width="50">
+    </p>
+  </dd>
+  <dt>Desenvolvimento Front End:</dt>
+  
+  <dt>Desenvolvimento Front End:</dt>
+  <dt>Desenvolvimento Back End:</dt>
+  <dt>Desenvolvimento de Aplicativos Móveis:</dt>
+  <dt>IA:</dt>
+  <dt>Database:</dt>
+  <dt>Serviços:</dt>
+  <dt>Framework:</dt>
+  <dt>Software:</dt>
+  
+</dl>
