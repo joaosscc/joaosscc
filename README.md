@@ -28,6 +28,23 @@
   
   
   <dt>:two: Desenvolvimento Front End:</dt>
+  <dd>
+    <p>
+      <a href="" rel="nofollow">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/html5.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+      </a>
+      <a href="" rel="nofollow">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/css3.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+      </a>
+      <a href="" rel="nofollow">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/bootstrap.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+      </a>
+      <a href="" rel="nofollow">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/react.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+      </a>
+     </p>
+  </dd>
+  
   <dt>:three: Desenvolvimento Back End:</dt>
   <dt>:four: Desenvolvimento de Aplicativos Móveis:</dt>
   <dt>:five: IA:</dt>
