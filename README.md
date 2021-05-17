@@ -13,16 +13,26 @@
       <a href="" rel="nofollow">
           <img align="center" src="https://github.com/joaosscc/icons/blob/main/python.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
       </a>
+      <a href="" rel="nofollow">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/java.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+      </a>
+      <a href="" rel="nofollow">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/javascript.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+      </a>
+      <a href="" rel="nofollow">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/c.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+      </a>
      </p>
   </dd>
   
   
-  <dt>Desenvolvimento Front End:</dt>
-  <dt>Desenvolvimento Back End:</dt>
-  <dt>Desenvolvimento de Aplicativos Móveis:</dt>
-  <dt>IA:</dt>
-  <dt>Database:</dt>
-  <dt>Serviços:</dt>
-  <dt>Framework:</dt>
-  <dt>Software:</dt>
+  
+  <dt>:two: Desenvolvimento Front End:</dt>
+  <dt>:three: Desenvolvimento Back End:</dt>
+  <dt>:four: Desenvolvimento de Aplicativos Móveis:</dt>
+  <dt>:five: IA:</dt>
+  <dt>:six: Database:</dt>
+  <dt>:seven: Serviços:</dt>
+  <dt>:eight: Framework:</dt>
+  <dt>:nine: Software:</dt>
 </dl>
