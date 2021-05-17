@@ -1,18 +1,17 @@
 <div></div>
 
 
-<h1>
-  Salve Brasileirinho!!
-</h1>
-
-</p>
-
+<h1>Salve Brasileirinho!!</h1>
 
 <h3>Me chamo João Pedro 👋</h3>
 
 <p>Sou formado em Sistemas de Informação pela Universidade Federal do Sul e Sudeste do Pará .</p>
 
 <h4>Linguagem de programação:</h4>
+
+<p>
+  <img src="https://github.com/joaosscc/icons/blob/main/python.png" width="50">
+</p>
 
 <h4>Desenvolvimento Front End:</h4>
 
