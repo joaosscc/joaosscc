@@ -8,18 +8,7 @@
 
 <dl>
   <dt>Linguagem de programação</dt>
-  <dd>
-    <p>
-      <a href="" >
-        <img src="https://github.com/joaosscc/icons/blob/main/python.png" rel="nofollow" style="max-width:100%;" width="40">
-      </a>
-      <img src="https://github.com/joaosscc/icons/blob/main/java.png" rel="nofollow" style="max-width:100%;" width="40">
-      <img src="https://github.com/joaosscc/icons/blob/main/javascript.png" rel="nofollow" style="max-width:100%;" width="40">
-      <img src="https://github.com/joaosscc/icons/blob/main/c.png" rel="nofollow" style="max-width:100%;" width="40">
-    </p>
-  </dd>
   <dt>Desenvolvimento Front End:</dt>
-  
   <dt>Desenvolvimento Front End:</dt>
   <dt>Desenvolvimento Back End:</dt>
   <dt>Desenvolvimento de Aplicativos Móveis:</dt>
