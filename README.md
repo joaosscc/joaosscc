@@ -11,6 +11,9 @@
 
 <p>
   <img src="https://github.com/joaosscc/icons/blob/main/python.png" width="50">
+  <img src="https://github.com/joaosscc/icons/blob/main/java.png" width="50">
+  <img src="https://github.com/joaosscc/icons/blob/main/javascript.png" width="50">
+  <img src="https://github.com/joaosscc/icons/blob/main/c.png" width="50">
 </p>
 
 <h4>Desenvolvimento Front End:</h4>
