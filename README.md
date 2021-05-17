@@ -9,7 +9,6 @@
 <dl>
   <dt>Linguagem de programação</dt>
   <dt>Desenvolvimento Front End:</dt>
-  <dt>Desenvolvimento Front End:</dt>
   <dt>Desenvolvimento Back End:</dt>
   <dt>Desenvolvimento de Aplicativos Móveis:</dt>
   <dt>IA:</dt>
@@ -17,5 +16,4 @@
   <dt>Serviços:</dt>
   <dt>Framework:</dt>
   <dt>Software:</dt>
-  
 </dl>
