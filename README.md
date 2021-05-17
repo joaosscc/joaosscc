@@ -10,12 +10,12 @@
   <dt>Linguagem de programação</dt>
   <dd>
     <p>
-      <a href="">
-        <img src="https://github.com/joaosscc/icons/blob/main/python.png" width="40px">
+      <a href="" >
+        <img src="https://github.com/joaosscc/icons/blob/main/python.png" style="max-width:100%;" width="40">
       </a>
-      <img src="https://github.com/joaosscc/icons/blob/main/java.png" width="40px">
-      <img src="https://github.com/joaosscc/icons/blob/main/javascript.png" width="40px">
-      <img src="https://github.com/joaosscc/icons/blob/main/c.png" width="40px">
+      <img src="https://github.com/joaosscc/icons/blob/main/java.png" style="max-width:100%;" width="40">
+      <img src="https://github.com/joaosscc/icons/blob/main/javascript.png" style="max-width:100%;" width="40">
+      <img src="https://github.com/joaosscc/icons/blob/main/c.png" style="max-width:100%;" width="40">
     </p>
   </dd>
   <dt>Desenvolvimento Front End:</dt>
