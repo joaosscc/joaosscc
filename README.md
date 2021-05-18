@@ -115,7 +115,7 @@
     </p>
   </dd>
   
-  <dt>:keycap_ten: Outros</dt>
+  <dt>:keycap_ten: Outros:</dt>
   <dd>
     <p>
       <a href="" rel="nofollow">
