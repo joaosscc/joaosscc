@@ -25,8 +25,6 @@
      </p>
   </dd>
   
-  
-  
   <dt>:two: Desenvolvimento Front End:</dt>
   <dd>
     <p>
@@ -45,7 +43,34 @@
      </p>
   </dd>
   
-  <dt>:three: Desenvolvimento Back End:</dt>
+  <dt>:three: Softwares:</dt>
+  <dd>
+    <p>
+      <a href="" rel="nofollow">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/ai.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+      </a>
+      <a href="" rel="nofollow">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/ps.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+      </a>
+      <a href="" rel="nofollow">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/figma.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+      </a>
+     </p>
+  </dd>
+  
+  <dt>:four: IA:</dt>
+  <dd>
+    <p>
+      <a href="" rel="nofollow">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/tensorflow.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+      </a>
+      <a href="" rel="nofollow">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/scikit_learn.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+      </a>  
+    </p>
+  </dd>
+  
+  <dt>:five: Desenvolvimento Back End:</dt>
   <dd>
     <p>
       <a href="" rel="nofollow">
@@ -54,7 +79,7 @@
     </p>
   </dd>
   
-  <dt>:four: Desenvolvimento de Aplicativos Móveis:</dt>
+  <dt>:six: Desenvolvimento de Aplicativos Móveis:</dt>
   <dd>
     <p>
       <a href="" rel="nofollow">
@@ -62,9 +87,41 @@
       </a>
     </p>
   </dd>
-  <dt>:five: IA:</dt>
-  <dt>:six: Database:</dt>
-  <dt>:seven: Serviços:</dt>
-  <dt>:eight: Framework:</dt>
-  <dt>:nine: Software:</dt>
+  
+  <dt>:seven: Database:</dt>
+  <dd>
+    <p>
+      <a href="" rel="nofollow">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/sqlite.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+      </a>
+    </p>
+  </dd>
+  
+  <dt>:eight: Serviços:</dt>
+  <dd>
+    <p>
+      <a href="" rel="nofollow">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/heroku.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+      </a>
+    </p>
+  </dd>
+  
+  <dt>:nine: Frameworks:</dt>
+  <dd>
+    <p>
+      <a href="" rel="nofollow">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/flask.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+      </a>
+    </p>
+  </dd>
+  
+  <dt>:keycap_ten: Outros</dt>
+  <dd>
+    <p>
+      <a href="" rel="nofollow">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/git.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+      </a>
+    </p>
+  </dd>
+ 
 </dl>
