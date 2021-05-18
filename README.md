@@ -46,7 +46,22 @@
   </dd>
   
   <dt>:three: Desenvolvimento Back End:</dt>
+  <dd>
+    <p>
+      <a href="" rel="nofollow">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/node.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+      </a>
+    </p>
+  </dd>
+  
   <dt>:four: Desenvolvimento de Aplicativos Móveis:</dt>
+  <dd>
+    <p>
+      <a href="" rel="nofollow">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/reactnative.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+      </a>
+    </p>
+  </dd>
   <dt>:five: IA:</dt>
   <dt>:six: Database:</dt>
   <dt>:seven: Serviços:</dt>
