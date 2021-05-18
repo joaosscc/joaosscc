@@ -11,16 +11,16 @@
   <dd>
     <p>
       <a href="" rel="nofollow">
-          <img align="center" src="https://github.com/joaosscc/icons/blob/main/python.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/python.png" alt="Python" height="75" width="75" style="max-width:100%;">
       </a>
       <a href="" rel="nofollow">
-          <img align="center" src="https://github.com/joaosscc/icons/blob/main/java.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/java.png" alt="Java" height="75" width="75" style="max-width:100%;">
       </a>
       <a href="" rel="nofollow">
-          <img align="center" src="https://github.com/joaosscc/icons/blob/main/javascript.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/javascript.png" alt="Javascript" height="75" width="75" style="max-width:100%;">
       </a>
       <a href="" rel="nofollow">
-          <img align="center" src="https://github.com/joaosscc/icons/blob/main/c.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/c.png" alt="C" height="75" width="75" style="max-width:100%;">
       </a>
      </p>
   </dd>
@@ -32,13 +32,13 @@
           <img align="center" src="https://github.com/joaosscc/icons/blob/main/html5.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
       </a>
       <a href="" rel="nofollow">
-          <img align="center" src="https://github.com/joaosscc/icons/blob/main/css3.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/css3.png" alt="CSS3" height="75" width="75" style="max-width:100%;">
       </a>
       <a href="" rel="nofollow">
-          <img align="center" src="https://github.com/joaosscc/icons/blob/main/bootstrap.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/bootstrap.png" alt="Bootstrap" height="75" width="75" style="max-width:100%;">
       </a>
       <a href="" rel="nofollow">
-          <img align="center" src="https://github.com/joaosscc/icons/blob/main/react.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/react.png" alt="React" height="75" width="75" style="max-width:100%;">
       </a>
      </p>
   </dd>
@@ -47,13 +47,13 @@
   <dd>
     <p>
       <a href="" rel="nofollow">
-          <img align="center" src="https://github.com/joaosscc/icons/blob/main/ai.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/ai.png" alt="Ai" height="75" width="75" style="max-width:100%;">
       </a>
       <a href="" rel="nofollow">
-          <img align="center" src="https://github.com/joaosscc/icons/blob/main/ps.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/ps.png" alt="PS" height="75" width="75" style="max-width:100%;">
       </a>
       <a href="" rel="nofollow">
-          <img align="center" src="https://github.com/joaosscc/icons/blob/main/figma.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/figma.png" alt="Figma" height="75" width="75" style="max-width:100%;">
       </a>
      </p>
   </dd>
@@ -62,10 +62,10 @@
   <dd>
     <p>
       <a href="" rel="nofollow">
-          <img align="center" src="https://github.com/joaosscc/icons/blob/main/tensorflow.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/tensorflow.png" alt="Tensorflow" height="75" width="75" style="max-width:100%;">
       </a>
       <a href="" rel="nofollow">
-          <img align="center" src="https://github.com/joaosscc/icons/blob/main/scikit_learn.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/scikit_learn.png" alt="Scikit Learn" height="75" width="75" style="max-width:100%;">
       </a>  
     </p>
   </dd>
@@ -74,7 +74,7 @@
   <dd>
     <p>
       <a href="" rel="nofollow">
-          <img align="center" src="https://github.com/joaosscc/icons/blob/main/node.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/node.png" alt="Node" height="75" width="75" style="max-width:100%;">
       </a>
     </p>
   </dd>
@@ -83,7 +83,7 @@
   <dd>
     <p>
       <a href="" rel="nofollow">
-          <img align="center" src="https://github.com/joaosscc/icons/blob/main/reactnative.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/reactnative.png" alt="React Native" height="75" width="75" style="max-width:100%;">
       </a>
     </p>
   </dd>
@@ -92,7 +92,7 @@
   <dd>
     <p>
       <a href="" rel="nofollow">
-          <img align="center" src="https://github.com/joaosscc/icons/blob/main/sqlite.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/sqlite.png" alt="Sqlite" height="75" width="75" style="max-width:100%;">
       </a>
     </p>
   </dd>
@@ -101,7 +101,7 @@
   <dd>
     <p>
       <a href="" rel="nofollow">
-          <img align="center" src="https://github.com/joaosscc/icons/blob/main/heroku.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/heroku.png" alt="Heroku" height="75" width="75" style="max-width:100%;">
       </a>
     </p>
   </dd>
@@ -110,7 +110,7 @@
   <dd>
     <p>
       <a href="" rel="nofollow">
-          <img align="center" src="https://github.com/joaosscc/icons/blob/main/flask.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/flask.png" alt="Flask" height="75" width="75" style="max-width:100%;">
       </a>
     </p>
   </dd>
@@ -119,7 +119,7 @@
   <dd>
     <p>
       <a href="" rel="nofollow">
-          <img align="center" src="https://github.com/joaosscc/icons/blob/main/git.png" alt="HTML5" height="75" width="75" style="max-width:100%;">
+          <img align="center" src="https://github.com/joaosscc/icons/blob/main/git.png" alt="Git" height="75" width="75" style="max-width:100%;">
       </a>
     </p>
   </dd>
