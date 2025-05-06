@@ -1,53 +1,28 @@
+# 👨‍💻 João Pedro
 
-![](https://komarev.com/ghpvc/?username=joaosscc&color=006bed)
+### Backend Developer | TypeScript • PostgreSQL • MongoDB • Redis • RabbitMQ
 
-<h3> Olá, Me chamo João Pedro. 👋</h3>
+Desenvolvedor backend com experiência em Python, JavaScript e TypeScript. Atuo na criação de APIs escaláveis, automação de processos e integração de sistemas, com foco em performance, manutenibilidade e boas práticas de desenvolvimento.
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções por diversão.
-- 🎓 &nbsp; Formado em **Sistemas de Informação** na <a href="https://faceel.unifesspa.edu.br/">Faculdade de Computação e Engenharia Elétrica - UNIFESSPA</a>.
-- 💼 &nbsp; Trabalhando como **Full Stack Chatbot Developer** na **Elife**.
-- 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento Web e Desenvolvimento Mobile**.
+---
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+## 🚀 Tecnologias & Ferramentas
 
-**Linguagens de Programação**
+- **Linguagens & Runtimes**: Node.js, TypeScript, JavaScript  
+- **Bancos de Dados**: PostgreSQL, MongoDB, Redis  
+- **Mensageria**: RabbitMQ  
+- **DevOps & Observabilidade**: Docker, Prometheus, Grafana  
+- **Versionamento & Deploy**: Git, GitHub
+- **Testes**: Jest
+- **APIs**: REST, Webhooks, Express
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+## 📚 Formação Acadêmica
 
-**Desenvolvimento Frontend**
+- 🎓 Sistemas de Informação — Universidade Federal do Sul e Sudeste do Pará
+- 🗓️ 2021
 
-![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## 📫 Contato
 
-**Desenvolvimento Mobile**
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Banco de Dados**
-
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Serviços**
-
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-**Frameworks**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-<h3 align="center"> Onde me encontrar:</h3>
-
-<p align="center">
-  <a href="https://api.whatsapp.com/send?phone=5594991010916">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:joaopedrosscc@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/joaosscc">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+- 📧 **E-mail**: joaopedrosscc@gmail.com  
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/joão-pedro-santos-cordeiro-3036b7204](https://www.linkedin.com/in/joão-pedro-santos-cordeiro-3036b7204)
+- 💻 **GitHub**: [https://github.com/joaosscc](https://github.com/joaosscc)
